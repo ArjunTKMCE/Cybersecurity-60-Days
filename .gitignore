@@ -1,0 +1,8 @@
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+*.iso
+private.key
+public.key
+certificate.crt
