@@ -1,5 +1,0 @@
-The Netcat practical was completed, but its screenshot still needs to be added.
-Expected evidence:
-Metasploitable2: nc -l -p 4444
-Kali: nc -v 192.168.56.102 4444
-Show the successful connection and test message.
